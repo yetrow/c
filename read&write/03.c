@@ -4,7 +4,7 @@
 int main(void)
 {
     FILE* file_ptr=NULL;
-    errno_t err =fopen_s(&file_ptr,"D:\\桌面11\\1.txt","r+");  
+    errno_t err =fopen_s(&file_ptr,"D:\\桌面11\\c读写\\1.txt","r+");  
     if(err!=0||file_ptr==NULL)
     {
         printf("打开文件失败，错误代码: %d\n", err);

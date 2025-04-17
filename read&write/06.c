@@ -7,7 +7,7 @@ int main(void)
     FILE *stream=NULL;
     char buffer[100];
 
-    errno_t err =fopen_s(&stream,"D:\\桌面11\\1.txt","r+");
+    errno_t err =fopen_s(&stream,"D:\\桌面11\\c读写\\1.txt","r+");
 
     if(err!=0||stream==NULL)
     {

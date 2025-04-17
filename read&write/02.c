@@ -9,7 +9,7 @@
 int main(void)
 {
     FILE* file_ptr = NULL;
-    const char* filename = "D:\\桌面11\\1.txt";
+    const char* filename = "D:\\桌面11\\c读写\\1.txt";
     
     errno_t err = fopen_s(&file_ptr, filename, "w");
     if (err != 0 || file_ptr == NULL)

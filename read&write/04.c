@@ -15,7 +15,7 @@ int main( void )
    char s[81];
    char c;
 
-   errno_t err = fopen_s( &stream, "D:\\桌面11\\1.txt", "r" );
+   errno_t err = fopen_s( &stream, "D:\\桌面11\\c读写\\1.txt", "r" );
    if( err )
       printf_s( "The file fscanf.out was not opened\n" );
    else

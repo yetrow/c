@@ -11,7 +11,7 @@ int main(void)
     // char s[81];
     // char c;
 
-    errno_t err=fopen_s(&stream,"D:\\桌面11\\1.txt","w+");
+    errno_t err=fopen_s(&stream,"D:\\桌面11\\c读写\\1.txt","w+");
     if(err!=0||stream==NULL)
     {
         printf("打开文件失败\n");

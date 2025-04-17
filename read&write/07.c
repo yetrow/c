@@ -9,14 +9,14 @@ void clear_log(const char *filename);
 
 int main(void)
 {
-    const char *filename="D:\\桌面11\\1.txt";
+    const char *filename="D:\\桌面11\\c读写\\1.txt";
     read_config_safe(filename);
 
-    const char *log_name="D:\\桌面11\\log.txt";
+    const char *log_name="D:\\桌面11\\c读写\\log.txt";
     const char *str="hello world\n";
     append_log_safe(log_name,str);
 
-    clear_log(log_name);
+    //clear_log(log_name);
 
     int numclosed=_fcloseall();//关闭所有打开的文件(保险操作)
     printf("关闭的文件数: %d\n",numclosed);
