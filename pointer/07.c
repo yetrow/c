@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+//函数返回指针
+
 void print()
 {
     printf("hello\n");
