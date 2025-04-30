@@ -17,7 +17,7 @@ const char* get_manu(Product** produt);
 
 int main(void)
 {
-    Product* product1=create_product(1,10.0,"frank's enterprise");
+    Product *product1=create_product(1,10.0,"frank's enterprise");
     printf("product id is:%d,price is:%.2f,manufacturer is:%s\n",\
         product1->id,product1->price,product1->manufacturer);
 

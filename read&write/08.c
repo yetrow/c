@@ -24,8 +24,6 @@ int main(void)
         setting.resolution_y,
         setting.difficulty);
 
-
-
     return 0;
 }
 
