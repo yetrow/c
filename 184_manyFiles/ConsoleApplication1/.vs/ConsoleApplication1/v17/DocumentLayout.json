@@ -11,20 +11,20 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game_types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game_abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game_function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\run.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:run.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game_function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game_abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game_function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "run.c",
               "DocumentMoniker": "E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\run.c",
               "RelativeDocumentMoniker": "run.c",
               "ToolTip": "E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\run.c",
               "RelativeToolTip": "run.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-25T12:04:38.375Z",
               "IsPinned": true,
@@ -76,33 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "game_abilities.h",
-              "DocumentMoniker": "E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_abilities.h",
-              "RelativeDocumentMoniker": "game_abilities.h",
-              "ToolTip": "E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_abilities.h",
-              "RelativeToolTip": "game_abilities.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-25T11:24:24.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "game_function.c",
-              "DocumentMoniker": "E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_function.c",
-              "RelativeDocumentMoniker": "game_function.c",
-              "ToolTip": "E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_function.c",
-              "RelativeToolTip": "game_function.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-25T11:17:03.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "game_function.h",
               "DocumentMoniker": "E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_function.h",
               "RelativeDocumentMoniker": "game_function.h",
@@ -134,9 +108,35 @@
               "RelativeDocumentMoniker": "game_types.h",
               "ToolTip": "E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_types.h",
               "RelativeToolTip": "game_types.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-25T11:18:58.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game_abilities.h",
+              "DocumentMoniker": "E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_abilities.h",
+              "RelativeDocumentMoniker": "game_abilities.h",
+              "ToolTip": "E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_abilities.h",
+              "RelativeToolTip": "game_abilities.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T11:24:24.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "game_function.c",
+              "DocumentMoniker": "E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_function.c",
+              "RelativeDocumentMoniker": "game_function.c",
+              "ToolTip": "E:\\vscode\\c\\184_manyFiles\\ConsoleApplication1\\game_function.c",
+              "RelativeToolTip": "game_function.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-25T11:17:03.757Z",
               "EditorCaption": ""
             }
           ]
