@@ -43,7 +43,7 @@ void log_message(LogLevel level,const char* format,...)
         case LOG_ERROR:level_str="ERROR";break;
         default:level_str="UNKNOWN";break;
     }
-    printf("[%s] [%s] %s",get_current_time(),level_str);
+    printf("[%s] [%s] ",get_current_time(),level_str);
     va_list args;
     va_start(args,format);
     vprintf(format,args);
